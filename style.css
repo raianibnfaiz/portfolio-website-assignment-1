@@ -1,0 +1,138 @@
+body{
+    margin:0;
+}
+section{
+    display:flex;
+    padding: 100px;
+}
+.half-width{
+    width:50%;
+    
+}
+h1{
+    font-size: 40px;
+    font-family: Yeseva One;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-size:52px;
+    font-weight:100%;
+}
+p{
+    font-family: Poppins;
+    font-size: 16px;
+    
+}
+.description{
+    margin-right: 20px;
+    width: 80%;
+}
+.orange-color{
+    color:orange;
+}
+.half-width img{
+    width:80%;
+}
+.headline{
+    border-left: 3px solid;
+    border-image: linear-gradient(rgb(255, 101, 101),rgb(255, 191, 73));
+    border-image-slice: 1;
+    padding-left:8px;
+}
+.btn{
+    padding: 15px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    background:#FF5959;
+    color: white;
+    font-size:18px;
+}
+.btn-area{
+    margin: 35px auto;
+}
+.second-part-title{
+    text-align: center;
+    
+}
+.mission-vision-goal{
+    width: 30%;
+    margin: auto 3%;
+    width: 360px;
+    height: 376px;
+    left: 156px;
+    top: 723px;
+    border-radius: 26px;
+    text-align: center;
+    text-align: justify;
+}
+.mission{
+    background: rgba(79, 157, 166, 0.1);
+    
+}
+.mission img{
+    width:50%;
+}
+.vision{
+    background:rgba(255, 89, 89, 0.1);
+   
+}
+.vision img{
+    width:50%
+}
+.goal{
+    background: #FFF4D6;
+    
+}
+.goal img{
+    width:50%;
+}
+.second-part-description{
+    padding: 22px;
+}
+.missions{
+    padding-top:30px;
+}
+.third-fourth-part-pic img{
+    width:75%;
+
+}
+.third-fourth-part-description{
+    width:50%;
+    text-align:justify;
+    color: #333333;
+    
+}
+.third-fourth-part-title{
+    font-size:40px;
+}
+.third-fourth-part-pic{
+    width:45%;
+    margin-left: 40px;
+
+}
+
+.fourth-part-details{
+    margin: auto 60px;
+}
+footer{
+    width :100%;
+    height: 177px;
+    top: 2997px;
+    background:#0B0D17;
+    
+}
+footer h1{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    padding-top: 40px;
+    color: #c2c1bd;
+}
+footer p{
+    font-family: Poppins;
+    text-align:center;
+    color:#D9DBE1;
+    font-size: 14px;
+}
+.tomato-color{
+    color: #FF5959;
+}

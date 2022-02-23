@@ -50,7 +50,7 @@ p{
 .btn-area{
     margin: 35px auto;
 }
-.second-part-title{
+.title{
     text-align: center;
     
 }
@@ -135,4 +135,19 @@ footer p{
 }
 .tomato-color{
     color: #FF5959;
+}
+.part {
+    width: 20%;
+    margin: 2% 2%;
+    padding: 20px;
+    border-radius: 5px;
+    border-left: 5px solid;
+    border-image: linear-gradient(rgb(127, 127, 233), rgb(113, 245, 113));
+    border-image-slice: 1;
+    box-shadow: 10px 10px 10px gray;
+    text-align: center;
+    text-align: justify;
+    height: 10%;
+    background: #0f121f;
+    color: white;
 }
